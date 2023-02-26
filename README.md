@@ -1,2 +1,2 @@
 # Charte-Graphique
-Official charte graphique de Kams
+Official charte graphique of Kams
